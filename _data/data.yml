@@ -3,23 +3,23 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Malik Singleton
+    tagline: Information Management
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: hello@webjeda.com
     phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    website: maliksingleton.info #do not add http://
+    linkedin: maliksingleton
+    github: mrsingleton
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@malikfromla'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -27,20 +27,17 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
       - idiom: Spanish
         level: Professional
         
     interests:
-      - item: Climbing
+      - item: KM
         link:
 
-      - item: Snowboarding
+      - item: AI
         link:
 
-      - item: Cooking
+      - item: AR
         link:
 
 career-profile:
