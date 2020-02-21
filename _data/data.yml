@@ -17,11 +17,11 @@ sidebar:
     website: maliksingleton.info #do not add http://
     linkedin: maliksingleton
     github: mrsingleton
-    gitlab:
-    bitbucket:
+    # gitlab:
+    # bitbucket:
     twitter: '@malikfromla'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
 
     languages:
       - idiom: English
@@ -52,22 +52,21 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MS in Publishing
+      university: Pace University
+      time: 2000
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Completed two-year masters in program that covers business, law, logistics, and content operations of publishing industry.
+        Focused on electronic publishing and wrote thesis on viability of mobile platforms and portable devices for publishers.
 
-          - Bullet point
-          - Bullet point 
+          - Publishing Information Systems
+          - Digital Content Management
+          - Business Aspects of Publishing
+          - Legal Aspects of Publishing
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BS English & Linguistics
+      university: Morehouse College
+      time: 1995
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
