@@ -52,6 +52,7 @@ career-profile:
       Second paragraph if required.
 
 education:
+    title: Education
     - degree: MS in Publishing
       university: Pace University
       time: 2000
