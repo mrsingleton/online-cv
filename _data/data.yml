@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Mr. Singleton
-    tagline: Content Operations Technical Writing Technical Support
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Content Management Technical Writing Technical Support
+    avatar: profile.png #put a 100x100 thumbnail pic in /assets/images/ and include its file name below
 
     # Sidebar links
     # email: jdoe@internets.com
     # phone: 987-654-3210
-    website: maliksingleton.info #do not add http://
+    website: maliksingleton.info #do not add http:// protocol
     linkedin: maliksingleton
     github: mrsingleton
     # gitlab:
